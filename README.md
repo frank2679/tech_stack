@@ -6,7 +6,7 @@
 |文件名|路径| 说明 |
 |:----|:---|:---|
 |Linux Programming Unleashed.pdf|Linux/||
-|Linux介绍_姜亚华|Linux/ |内核机制分享, PPT|
+|Linux_intro_jyh|Linux/ |内核机制分享, PPT|
 |The C++ Programming Language@2000 (特别版)|编程语言/C++ |C++作者的书|
 |The Design and Evolution of C++@1994|编程语言/C++|比较老，体会思想|
 |gcc|工具链/|gcc官方文档|
